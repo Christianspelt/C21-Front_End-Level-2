@@ -30,13 +30,13 @@ h4{
     line-height:1,4;
 }
 
-hyperlink{
+.hyperlink{
 font-family: 'karla';
 font-size: 14px;
 color:#ca404f;
 line-height:1,4;
 }
-buttons{
+.hyperlink{
     font-family: 'karla' bold;
     font-size: 16;
     color:white;
